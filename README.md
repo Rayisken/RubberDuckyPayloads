@@ -1,2 +1,2 @@
 # RubberDuckyPayloads
-USB Rubber Ducky Payloads
+USB Rubber Ducky Payloads & Assets
